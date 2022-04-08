@@ -1,0 +1,2 @@
+cd C:\Users\Nirosha\Selenium work space\nopcommerceV1
+mvn clean install
